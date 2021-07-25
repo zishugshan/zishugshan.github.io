@@ -923,7 +923,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 .center {
   margin: auto;
-  width: 50%;
+  width: 80%;
   border: 2px solid #00b4d9;
   border-radius: 5px;
   padding: 10px;
